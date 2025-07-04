@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para os bairros Rocha Miranda, Irajá, Madureira e Coelho Neto"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele até 12x"
   },
   "exchange": {
     "show": true,
