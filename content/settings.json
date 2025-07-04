@@ -1,9 +1,9 @@
 {
   "domain": "ludanfamilia.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0024ff",
+  "primary_color": "#c42929",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "simplex",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icone.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#040404",
+  "icon": "/img/uploads/icone.jpg",
   "store_id": 51608,
   "description": "Com tradição e excelência, nossa loja de laticínios é referência quando o assunto é qualidade. \n",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone.jpg"
 }
