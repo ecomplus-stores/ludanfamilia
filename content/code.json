@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header__search-input{\n  border: ridge;\n}",
   "html_head": "",
   "html_body": ""
 }
