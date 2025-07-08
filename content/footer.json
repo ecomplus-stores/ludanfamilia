@@ -32,10 +32,11 @@
     "pix": true,
     "visa": true,
     "mastercard": true,
-    "elo": true,
+    "elo": false,
     "amex": true,
     "hipercard": true,
-    "boleto": true
+    "boleto": false,
+    "hiper": true
   },
   "credits": ""
 }
