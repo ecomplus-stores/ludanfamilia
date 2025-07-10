@@ -32,7 +32,7 @@
     },
     {
       "type": "product-specifications",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
