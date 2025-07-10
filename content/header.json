@@ -7,7 +7,7 @@
   "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "Atendemos os inicialmente os bairros: Rocha Miranda, Irajá, Madureira e Coelho Neto ",
+    "text": "FRETE GRATIS EM TODO SITE* (CONFIRA AS REGRAS)",
     "link": "/promotion"
   },
   "alphabetical_order_submenu": false,
@@ -16,16 +16,7 @@
   "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": false
   }
