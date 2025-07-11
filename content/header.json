@@ -8,7 +8,7 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "FRETE GRATIS EM TODO SITE* (CONFIRA AS REGRAS)",
-    "link": "/entrega"
+    "link": "/pages/entrega"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
