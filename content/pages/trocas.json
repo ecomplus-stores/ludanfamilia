@@ -2,11 +2,6 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"page-title__head\"><h1 class=\"my-0\">Trocas e devoluções</h1></div></div>\n\n<div class=\"container\">\n<p>É possível trocar ou devolver um produto adquirido no Jotacê Laticínios em até 2 (dois) dias corridos, a contar da entrega da sua compra.</p>\n\n<p>Aceitamos a desistência da compra do produto quando não há violação do lacre da embalagem do produto ou evidências de uso. O processo de restituição por desistência da compra será iniciado após o recebimento do produto em nosso centro de distribuição e confirmação de suas condições.</p>\n\n<p>Caso não haja indícios de uso, providenciaremos a troca por outro produto, cancelamento da compra junto à operadora de seu cartão de crédito ou restituição da quantia paga pelo mesmo.</p>\n\n<p>Toda troca ou devolução deve ser comunicada através do E-mail sac@jotacelaticinios.com.br para que possamos fornecer instruções detalhadas sobre o processo.</p>\n</div>",
-  "sections": [
-    {
-      "type": "custom-html",
-      "html": "<style>    \n.container, .container-lg, .container-md, .container-sm {\n        font-size: 17px;\n    }\n.custom-html{\n  margin: 0px;\n}\n.extra-page.md-content\n{\n  padding-top: 0px;\n}\n</style>"
-    }
-  ]
+  "body": "<div class=\"container\">\n<p>É possível trocar ou devolver um produto adquirido no Jotacê Laticínios em até 2 (dois) dias corridos, a contar da entrega da sua compra.</p>\n\n<p>Aceitamos a desistência da compra do produto quando não há violação do lacre da embalagem do produto ou evidências de uso. O processo de restituição por desistência da compra será iniciado após o recebimento do produto em nosso centro de distribuição e confirmação de suas condições.</p>\n\n<p>Caso não haja indícios de uso, providenciaremos a troca por outro produto, cancelamento da compra junto à operadora de seu cartão de crédito ou restituição da quantia paga pelo mesmo.</p>\n\n<p>Toda troca ou devolução deve ser comunicada através do E-mail sac@jotacelaticinios.com.br para que possamos fornecer instruções detalhadas sobre o processo.</p>\n</div>",
+  "sections": []
 }
