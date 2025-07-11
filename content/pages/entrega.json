@@ -2,5 +2,11 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### O prazo é calculado de acordo com o CEP fornecido e encontra-se na finalização do seu pedido, logo abaixo do endereço de entrega.\n\n### \\*O prazo de entrega pode variar em função da faixa de CEP.\n\n### A data do pedido não conta para o cálculo do prazo de entrega, e sim a data da confirmação do pagamento.\n\n### Os prazos para confirmação de pagamento são: cartão em até 02 (dois) dias úteis, boleto bancário e transferência online em até 02 (dois) dias úteis.\n\n### Esta contagem de confirmação se dará após a data de pedido. O pedido é enviado em até 03 dias após a confirmação de pagamento.\n\n### As datas de entrega são uma estimativa, e podem haver pequenos atraso devido aos fatores externos tais como chuvas em excesso, áreas de risco extremo e zonas rurais.\n\n### Serão realizadas até 3 tentativas de entregas, e caso nenhuma delas tenha sucesso a sua encomenda poderá ficar aguardando retirada em uma agência perto de você.\n\n### Se não tivermos estoque disponível para entrega do produto, você será comunicado por telefone pelo nosso pessoal de atendimento ao Cliente."
+  "body": "<div class=\"container\">\n<p>O prazo é calculado de acordo com o CEP fornecido e encontra-se na finalização do seu pedido, logo abaixo do endereço de entrega.</p>\n<p>O prazo de entrega pode variar em função da faixa de CEP.</p>\n<p>A data do pedido não conta para o cálculo do prazo de entrega, e sim a data da confirmação do pagamento.</p>\n<p>Os prazos para confirmação de pagamento são: cartão em até 02 (dois) dias úteis, boleto bancário e transferência online em até 02 (dois) dias úteis.</p>\n<p>Esta contagem de confirmação se dará após a data de pedido. O pedido é enviado em até 03 dias após a confirmação de pagamento.</p>\n<p>As datas de entrega são uma estimativa, e podem haver pequenos atraso devido aos fatores externos tais como chuvas em excesso, áreas de risco extremo e zonas rurais.</p>\n<p>Serão realizadas até 3 tentativas de entregas, e caso nenhuma delas tenha sucesso a sua encomenda poderá ficar aguardando retirada em uma agência perto de você.</p>\n<p>Se não tivermos estoque disponível para entrega do produto, você será comunicado por telefone pelo nosso pessoal de atendimento ao Cliente.</p>\n</div>",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "    .container, .container-lg, .container-md, .container-sm {\n        font-size: 17px;\n    }"
+    }
+  ]
 }
