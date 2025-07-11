@@ -8,7 +8,7 @@
     "text": "Parcele até 12x"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
