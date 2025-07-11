@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.24df50369db09c1cd3dc659059850569.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f2701488bb1422a05280c89368abfa96.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.45d24afd9e5ebe8298187de9bc06bc35.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.94e51ddabf159e5dcf9cc0383ec3bc29.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.9bd7813d7902d3cdb9a9859fdef09d50.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Jotacê Laticínios",
+  "short_name": "Jotacê",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Com tradição e excelência, nossa loja de laticínios é referência quando o assunto é qualidade. \n",
+  "background_color": "#ffffff",
+  "theme_color": "#c42929"
+}
