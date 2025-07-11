@@ -3,10 +3,5 @@
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
   "body": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"page-title__head\"><h1 class=\"my-0\">Condições de entrega</h1></div></div>\n\n<div class=\"container\">\n<p>O prazo é calculado de acordo com o CEP fornecido e encontra-se na finalização do seu pedido, logo abaixo do endereço de entrega.</p>\n<p>O prazo de entrega pode variar em função da faixa de CEP.</p>\n<p>As datas de entrega são uma estimativa, e podem haver pequenos atraso devido aos fatores externos tais como chuvas em excesso, áreas de risco extremo e zonas rurais.</p>\n<p>Serão realizadas até 2 tentativas de entregas, e caso nenhuma delas tenha sucesso a sua encomenda poderá ficar aguardando retirada em uma agência perto de você.</p>\n<p>Se não tivermos estoque disponível para entrega do produto, você será comunicado por telefone pelo nosso pessoal de atendimento ao Cliente.</p>\n</div>",
-  "sections": [
-    {
-      "type": "custom-html",
-      "html": "<style>    \n.container, .container-lg, .container-md, .container-sm {\n        font-size: 17px;\n    }\n.custom-html{\n  margin: 0px;\n}\n.extra-page.md-content\n{\n  padding-top: 0px;\n}\n</style>"
-    }
-  ]
+  "sections": []
 }
