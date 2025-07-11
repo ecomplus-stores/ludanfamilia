@@ -6,7 +6,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<style>    \n.container, .container-lg, .container-md, .container-sm {\n        font-size: 17px;\n    }\n</style>"
+      "html": "<style>    \n.container, .container-lg, .container-md, .container-sm {\n        font-size: 17px;\n    }\n.custom-html{\n  margin: 0px;\n}\n</style>"
     }
   ]
 }
