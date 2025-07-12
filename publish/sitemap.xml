@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/frios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/embalagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/ketchup-predilect</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -62,15 +74,15 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/frios</loc>
+      <loc>https://ludanfamilia.netlify.app/aji-sal-tradicional-250g</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/embalagem</loc>
+      <loc>https://ludanfamilia.netlify.app/aji-sal-churrasco-500g</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -128,15 +140,15 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://ludanfamilia.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
