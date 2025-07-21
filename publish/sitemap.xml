@@ -188,12 +188,6 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/cepera</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ludanfamilia.netlify.app/schreiber</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -272,6 +266,60 @@
     </url>
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/chinezinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/granfino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/grossoni</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/rica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/gra-file</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/top</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/click</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/cristalcopo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/cepera</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -320,13 +368,13 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/admin/index</loc>
+      <loc>https://ludanfamilia.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/app/index</loc>
+      <loc>https://ludanfamilia.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
