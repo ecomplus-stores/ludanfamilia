@@ -152,6 +152,18 @@
     </url>
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/presunto-sadia-fatiado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/presunto-sadia-fatiado-1kg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/frios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
