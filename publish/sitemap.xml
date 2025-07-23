@@ -110,6 +110,48 @@
     </url>
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/frios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/embalagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/biscoitos-e-salgadinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/congelados-e-resfriados</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/padaria</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/doces-e-sobremesas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/utensilios-para-festas-e-decoracoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/aurora</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -314,43 +356,25 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/frios</loc>
+      <loc>https://ludanfamilia.netlify.app/imbiara</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/embalagem</loc>
+      <loc>https://ludanfamilia.netlify.app/du-porto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/biscoitos-e-salgadinhos</loc>
+      <loc>https://ludanfamilia.netlify.app/royal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/congelados-e-resfriados</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ludanfamilia.netlify.app/padaria</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ludanfamilia.netlify.app/doces-e-sobremesas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ludanfamilia.netlify.app/utensilios-para-festas-e-decoracoes</loc>
+      <loc>https://ludanfamilia.netlify.app/instant-success</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
