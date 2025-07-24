@@ -404,6 +404,24 @@
     </url>
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/maionese-hellmanns-bag-28kg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/maionese-liza-sache-196gr</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/maionese-heinz-390gr</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/frios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
