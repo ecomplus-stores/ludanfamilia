@@ -494,6 +494,24 @@
     </url>
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/cx-hamb-sabor-picanha-gra-file</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/hamb-gra-file-sabor-picanha-90gr-1-unidade</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/cx-hamb-sabor-picanha-brasa-30-un</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/frios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1394,15 +1412,15 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ludanfamilia.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludanfamilia.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
