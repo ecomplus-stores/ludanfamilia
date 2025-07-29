@@ -49,6 +49,11 @@
         "686831eb578b5f7954550785:categories:Embalagem:/embalagem"
       ],
       "sort": "views"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
