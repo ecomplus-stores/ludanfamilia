@@ -1,5 +1,5 @@
 {
-  "css": ".header__search-input{\n  border: ridge;\n}\n.header__category:hover\n{\n  color: back;\n}",
+  "css": ".header__search-input{\n  border: ridge;\n}\n.header__category:hover\n{\n  color: black;\n}",
   "html_head": "",
   "html_body": ""
 }
