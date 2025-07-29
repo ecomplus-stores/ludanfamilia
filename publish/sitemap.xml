@@ -1454,19 +1454,7 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/alimentos_basicos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ludanfamilia.netlify.app/churrasco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ludanfamilia.netlify.app/caldo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
