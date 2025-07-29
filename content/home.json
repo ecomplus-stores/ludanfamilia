@@ -47,7 +47,8 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "686831eb578b5f7954550785:categories:Embalagem:/embalagem"
+        "686831eb578b5f7954550785:categories:Embalagem:/embalagem",
+        "687e6db2578b5f79546bc176:categories:Padaria:/padaria"
       ],
       "sort": "views"
     },
