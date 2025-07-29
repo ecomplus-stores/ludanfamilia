@@ -1442,6 +1442,12 @@
     </url>
   
     <url>
+      <loc>https://ludanfamilia.netlify.app/tempero</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludanfamilia.netlify.app/mostarda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2372,13 +2378,13 @@
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/app/index</loc>
+      <loc>https://ludanfamilia.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ludanfamilia.netlify.app/admin/index</loc>
+      <loc>https://ludanfamilia.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
